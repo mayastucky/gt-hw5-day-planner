@@ -1,3 +1,13 @@
 h1 {
   color: pink;
 }
+
+.display-4,
+#currentDay {
+  font-family: "Playfair Display", serif;
+  text-align: center;
+}
+
+h3 {
+  font-family: "Roboto Mono", monospace;
+}
